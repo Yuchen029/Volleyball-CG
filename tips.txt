@@ -1,0 +1,14 @@
+1. You can click "M" to create a mistake after the CatchPlayer gets the volleyball and before it is passed to the SmashPlayer. 
+    The SmashPlayer will smash the ball out of the court and the referee will hand up to point out the team wins.
+
+2. You can click "A" to move the camera at the top of the scene to the left and click "D" to move it to the right.
+
+3. You can click "C" to move to the camera view and click it again to back to the original view (The keyboard listener is not accurate enough. Sometimes one click may be treated as twice.)
+    It is also possible to move camera when you switch to the camera view.
+
+4. You can click "Right Key" of your mouse to let the Staff (His role is to pick the volleyball) stop.
+    You can also click it again to let him continue to move.
+
+5. You can click "Left Key" of your mouse to let the Staff to pick up the ball nearby. (It will not work if the ball is too far for the Staff.)
+    You can also click it again to drop the ball on the ground.
+	
